@@ -33,3 +33,5 @@ Minhas Redes Socias/contatos:
     <img src="https://img.shields.io/badge/-instagram-red" target="_blank" />
  </a>
 </div>
+
+![Snake animation](https://github.com/rafaballerini2/luizcarlosjj/blob/output/github-contribution-grid-snake.svg)
