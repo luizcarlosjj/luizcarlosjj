@@ -34,4 +34,4 @@ Minhas Redes Socias/contatos:
  </a>
 </div>
 
-![Snake animation](https://github.com/rafaballerini2/luizcarlosjj/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luizcarlosjj/luizcarlosjj/blob/output/github-contribution-grid-snake.svg)
