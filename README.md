@@ -1,10 +1,8 @@
 ## Hi there👋, Sou o Luiz Carlos!
 
-🌱 Rumo ao Full stack 
+🌱 Rumo ao Full stack <br>
+💻 Estudando HTML5 | CSS3 | JavaScript
 
-Contact me :  <a href="https://api.whatsapp.com/send?phone=+5562986432931">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
- </a>
 <div>
   <a href="https://github.com/luizcarlosjj">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=luizcarlosjj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -25,13 +23,13 @@ Contact me :  <a href="https://api.whatsapp.com/send?phone=+5562986432931">
 Minhas Redes Socias/contatos:
   
 <div style="display: inline-block" target="_blank" ></br>
+    <a href="https://api.whatsapp.com/send?phone=+5562986432931">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
+ </a>
  <a href="https://www.linkedin.com/in/marcelorafael23/" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
  </a>
-
- <a href="https://www.instagram.com/luiz.jb62/">
-    <img src="https://img.shields.io/badge/-instagram-red" target="_blank" />
- </a>
 </div>
-
-![Snake animation](https://github.com/luizcarlosjj/luizcarlosjj/blob/output/github-contribution-grid-snake.svg)
+<div>
+    <img height="280cm" src="https://github.com/luizcarlosjj/luizcarlosjj/blob/output/github-contribution-grid-snake.svg"
+</div>
